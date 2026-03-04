@@ -1,5 +1,11 @@
 # Considerações Éticas no Lançamento do Aplicativo
 
+## Alunos
+- Larissa da Silva 
+- Erika Toledo
+- Karen evelyn
+- Talita Braz
+
 Caso o aplicativo seja disponibilizado sem as devidas precauções, poderão surgir sérios problemas éticos, especialmente relacionados a:
 
 - Vieses algorítmicos  
