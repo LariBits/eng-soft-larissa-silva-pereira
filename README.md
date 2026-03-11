@@ -7,7 +7,7 @@ Bem-vindo ao meu repositório! Aqui você encontrará todas as minhas entregas, 
 
 ---
 
-## 🛠️ Minha Stack / Tecnologias
+## Minha Stack / Tecnologias
 - HTML5, CSS3, JavaScript
 - Python
 - C
@@ -18,8 +18,7 @@ Bem-vindo ao meu repositório! Aqui você encontrará todas as minhas entregas, 
 
 Clique nos links abaixo para acessar os arquivos de cada semana:
 
-* 📄 [Semana 01 - Fundamentos e Ética](./semana-01)
-* 📄 [Semana 02 - Modelos de Processo](./semana-02)
-* 📄 [Semana 03 - (Nome do tópico futuro) ](./semana-03)
+* 📄 [Semana 02 - Identificação e correção de problemas](./Semana%20-%2002/proposta-software.md)
+* 📄 [Semana 03 - Modelos de Processo](./Semana%20-%2003/Operação%20Resgate.md)
 
 ---
